@@ -1,14 +1,6 @@
----
-
-title: about
-date: 2020-12-11 21:07:15
----
-
 # KuoCh'ing Chang (GUOQING ZHANG)
 
 ## Basic info
-
-Live in Kyoto, Japan
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/dnimo/img/master/20230422001139.png" width="50%" height="50%"></h1>
 
