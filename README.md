@@ -1,9 +1,3 @@
----
-
-title: about
-date: 2020-12-11 21:07:15
----
-
 # KuoCh'ing Chang (GUOQING ZHANG)
 
 ## Basic info
