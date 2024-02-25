@@ -48,6 +48,5 @@ Participate in the 2021 service outsourcing competition, extract the multiple re
 
 ## Competition/Award `Selected`
 
-- The 11th China University Students Service Outsourcing innovation and entrepreneurship competition `[National second prize]` [view](https://raw.githubusercontent.com/dnimo/img/master/服务外包大赛（二等奖）.jpg)
 - China Chemistry Olympiad (Preliminary) `[Second Prize]` [view](https://raw.githubusercontent.com/dnimo/img/master/化学奥林匹克.jpeg)
 - Nishimura International Scholarship Foundation [Spring 2023 Scholarship Student](https://www.nisf.or.jp/)
