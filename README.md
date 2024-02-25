@@ -1,6 +1,14 @@
+---
+
+title: about
+date: 2020-12-11 21:07:15
+---
+
 # KuoCh'ing Chang (GUOQING ZHANG)
 
 ## Basic info
+
+Live in Kyoto, Japan
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/dnimo/img/master/20230422001139.png" width="50%" height="50%"></h1>
 
@@ -17,10 +25,6 @@
 - [Informatics Department of Kyoto University](https://medinfo.kuhp.kyoto-u.ac.jp/members/) | `Master` `2023/04~2025/04` `Graduate School`
 
 ## Work Experience
-
-### [Nishimura International Scholarship Foundation](https://www.nisf.or.jp/) `2023.6-right now`
-
-- Spring 2023 Scholarship Student.
 
 ### [Whale Cloud Technology](https://online.iwhalecloud.com/aboutus) `2021.7-2021.9`
 
@@ -50,11 +54,6 @@ Participate in the 2021 service outsourcing competition, extract the multiple re
 
 ## Competition/Award `Selected`
 
-- The 10th Shandong university student entrepreneurship program competition `[First prize of the provincial level]` [view](https://raw.githubusercontent.com/dnimo/img/master/第十届山东省大学生创业计划大赛.jpg)
-- The fifth Shandong Internet plus student innovation and entrepreneurship competition `[Provincial gold medal in]` [view]()
 - The 11th China University Students Service Outsourcing innovation and entrepreneurship competition `[National second prize]` [view](https://raw.githubusercontent.com/dnimo/img/master/服务外包大赛（二等奖）.jpg)
-- The 12th China University Students Service Outsourcing innovation and entrepreneurship competition `[third prize of the provincial level]` [view](https://raw.githubusercontent.com/dnimo/img/master/2021年服务外包.JPG)
 - China Chemistry Olympiad (Preliminary) `[Second Prize]` [view](https://raw.githubusercontent.com/dnimo/img/master/化学奥林匹克.jpeg)
-
-## Thesis
-
+- Nishimura International Scholarship Foundation[Spring 2023 Scholarship Student](https://www.nisf.or.jp/)
