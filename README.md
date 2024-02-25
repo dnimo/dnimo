@@ -15,7 +15,6 @@
 ## Education
 
 - [Informatics Department of Kyoto University](https://medinfo.kuhp.kyoto-u.ac.jp/members/) | `Master` `2023/04~2025/04` `Graduate School`
-- [Big Data and Data Science Department of The Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/index.htm) | `bachelor` `2018/06~2022/06` `Undergraduate School`
 
 ## Work Experience
 
