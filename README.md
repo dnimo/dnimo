@@ -4,13 +4,11 @@
 
 Live in Kyoto, Japan
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/dnimo/img/master/20230422001139.png" width="50%" height="50%"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/dnimo/img/master/Me/wakayama.jpeg" width="50%" height="50%"></h1>
 
 ## Skills
 
-- JLPT: N2
-
-- TOEFL: 79
+- JLPT: N2, TOEFL: 79
 
 - C++, Python, Java, TensorFlow, Pytorch, MapReduce
 
@@ -48,5 +46,5 @@ Participate in the 2021 service outsourcing competition, extract the multiple re
 
 ## Competition/Award `Selected`
 
-- China Chemistry Olympiad (Preliminary) `[Second Prize]` [view](https://raw.githubusercontent.com/dnimo/img/master/化学奥林匹克.jpeg)
+- China Chemistry Olympiad (Preliminary) [Second Prize](https://raw.githubusercontent.com/dnimo/img/master/化学奥林匹克.jpeg)
 - Nishimura International Scholarship Foundation [Spring 2023 Scholarship Student](https://www.nisf.or.jp/)
