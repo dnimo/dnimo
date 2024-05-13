@@ -22,7 +22,7 @@ Live in Kyoto, Japan
 
 - System operation and maintenance.
 
-### [MICROSOFT STUDENT AMBASSADOR](https://studentambassadors.microsoft.com/certificate/7778362e-ed37-40e3-864a-1f5cfa63faf8) `2020.10-2022.6`
+### [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/certificate/7778362e-ed37-40e3-864a-1f5cfa63faf8) `2020.10-2022.6`
 
 - In 2020, I joined the Microsoft Student Ambassador community through the interview of Microsoft Student Ambassador Asia leader in China. After entering the community, I actively participated in the online conferences held by Microsoft and contacted developers all over the world. At present, I continue to study in the health care team, also the field I want to be engaged in the post-graduate stage.
 
@@ -34,7 +34,7 @@ Live in Kyoto, Japan
 
 GitHub Address：[https://github.com/dnimo/ZhongYi-NER2](https://github.com/dnimo/ZhongYi-NER2)
 
-A pointer Network named entity labeling model for Ancient Chinese Medicine books based on Bert Encoder
+A pointer Network named entity labeling model for Ancient Chinese Medicine books based on Bert Encoder.
 
 ### Bert-information-Extraction
 
@@ -43,6 +43,14 @@ A pointer Network named entity labeling model for Ancient Chinese Medicine books
 GitHub Address: [https://github.com/dnimo/Bert-information-Extraction](https://github.com/dnimo/Bert-information-Extraction)
 
 Participate in the 2021 service outsourcing competition, extract the multiple relationships in the financial data text.
+
+### husky
+
+`Python` `Medical Informatics`
+
+Github Address: [https://github.com/dnimo/husky](https://github.com/dnimo/husky)
+
+This project is release by KuoCh'ing Chang. We shooting this project to solve medical text processing.
 
 ## Competition/Award `Selected`
 
