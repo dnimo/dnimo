@@ -44,11 +44,11 @@ GitHub Address: [https://github.com/dnimo/Bert-information-Extraction](https://g
 
 Participate in the 2021 service outsourcing competition, extract the multiple relationships in the financial data text.
 
-### husky
+### HuskyMed
 
-`Python` `Medical Informatics`
+`Python` `Medical Informatics` `Medical AI` 
 
-Github Address: [https://github.com/dnimo/husky](https://github.com/dnimo/husky)
+Github Address: [https://github.com/dnimo/HuskyMed](https://github.com/dnimo/HuskyMed)
 
 This project is release by KuoCh'ing Chang. We shooting this project to solve medical text processing.
 
