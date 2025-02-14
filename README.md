@@ -26,9 +26,11 @@ Live in Kyoto, Japan
 
 - In 2020, I joined the Microsoft Student Ambassador community through the interview of Microsoft Student Ambassador Asia leader in China. After entering the community, I actively participated in the online conferences held by Microsoft and contacted developers all over the world. At present, I continue to study in the health care team, also the field I want to be engaged in the post-graduate stage.
 
+## Preprint
+- Zhang, G., Fukuyama, K., Kishimoto, K., & Kuroda, T. (2024). Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension: Testing and Evaluation of the NBCE Method. arXiv preprint arXiv:2411.08586.
+
 ## Publication
 
-- Zhang, G., Fukuyama, K., Kishimoto, K., & Kuroda, T. (2024). Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension: Testing and Evaluation of the NBCE Method. arXiv preprint arXiv:2411.08586.
 - 范梦月, 姚琳, Zhang, G., 王瑞雪, Chen, K., Fan, Y., Wang, Z., Fu, J., 陈永君, & 王泰一. (2024). Study on subtyping and traditional Chinese medicine treatment of depression based on machine learning and text mining. Journal of Traditional Chinese Medicine (JTCM). (稿号: 2023-00963). Accepted for publication.
 
 
