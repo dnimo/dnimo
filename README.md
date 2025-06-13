@@ -26,6 +26,11 @@ Live in Kyoto, Japan
 
 - In 2020, I joined the Microsoft Student Ambassador community through the interview of Microsoft Student Ambassador Asia leader in China. After entering the community, I actively participated in the online conferences held by Microsoft and contacted developers all over the world. At present, I continue to study in the health care team, also the field I want to be engaged in the post-graduate stage.
 
+### [Msunhealth (Beijing) Co., Ltd.](http://123.249.119.235)`2025.04-2025.06`
+
+- After obtaining my master's degree from Kyoto University in April 2025, I was invited to join the Research and Development Department of Zhongyang Health Technology Co., Ltd. in Shandong Province as a Medical AI Research Intern for a six-month internship. During this period, I was primarily involved in developing AI services that can be seamlessly integrated into existing Hospital Information Systems (HIS), aiming to enhance hospital intelligence and operational efficiency. My main responsibility was to apply agent-based technologies to intelligently plan and schedule the daily tasks of ward nurses, thereby improving the efficiency and scientific management of nursing workflows.
+
+
 ## Preprint
 - Zhang, G., Fukuyama, K., Kishimoto, K., & Kuroda, T. (2024). Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension: Testing and Evaluation of the NBCE Method. arXiv preprint arXiv:2411.08586.
 
