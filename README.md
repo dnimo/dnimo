@@ -36,7 +36,7 @@ Live in Kyoto, Japan
 
 ## Publication
 
-- 范梦月, 姚琳, Zhang, G., 王瑞雪, Chen, K., Fan, Y., Wang, Z., Fu, J., 陈永君, & 王泰一. (2024). Study on subtyping and traditional Chinese medicine treatment of depression based on machine learning and text mining. Journal of Traditional Chinese Medicine (JTCM). (稿号: 2023-00963). Accepted for publication.
+- Mengyue F, Lin Y, Guoqing Z, Ruixue W, Kexin C, Yujing F, Ziming W, Jia FU, Yongjun C, Taiyi W. Study on subtyping and Traditional Chinese Medicine treatment of depression based on machine learning and text mining. J Tradit Chin Med. 2025 Oct;45(5):1152-1163. doi: 10.19852/j.cnki.jtcm.20250319.001. PMID: 41015814; PMCID: PMC12454262.
 
 
 ## Project
