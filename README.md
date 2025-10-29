@@ -1,4 +1,4 @@
-# KuoCh'ing Chang (GUOQING ZHANG)
+# KuoCh'ing Chang (张瀚文)
 
 ## Basic info
 
@@ -15,12 +15,13 @@ Live in Kyoto, Japan
 ## Education
 
 - [Informatics Department of Kyoto University](https://medinfo.kuhp.kyoto-u.ac.jp/members/) | `Master` `2023/04~2025/04` `Graduate School`
+- [Informatics Department of Kyoto University](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home) | `PhD` `2025/10~` `Graduate School`
 
 ## Work Experience
 
 ### [Whale Cloud Technology](https://online.iwhalecloud.com/aboutus) `2021.7-2021.9`
 
-- System operation and maintenance.
+- System operation and maintenance.In the final stage of my undergraduate studies, I interned at Whale Cloud Technology, where I actively participated in the China Mobile Enterprise Cloud Storage Project. My responsibilities included business module development and post-deployment server maintenance. During this period, I managed close to one hundred servers, which allowed me to gain hands-on experience in large-scale cloud infrastructure management.
 
 ### [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/certificate/7778362e-ed37-40e3-864a-1f5cfa63faf8) `2020.10-2022.6`
 
