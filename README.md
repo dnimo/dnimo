@@ -46,7 +46,7 @@ I aim to build *trustworthy, interpretable, and efficient AI systems* that can s
   I plan to explore the integration of **LLM reasoning with reinforcement learning** to enable adaptive decision-making in multi-agent medical environments, and to extend these frameworks to **multimodal diagnostic and procedural planning tasks**.
 
 <p align="center">
-  <img src="assets/research_overview.png" width="70%" alt="Research overview (placeholder)">
+  <img src="assets/" width="70%" alt="Research overview (placeholder)">
 </p>
 
 ---
