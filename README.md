@@ -152,7 +152,7 @@ Extracted complex relational patterns in financial text data for the 2021 Nation
 
 ## 📫 Contact
 
-**Email:** [kuoching.chang@kyoto-u.ac.jp](mailto:kuoching.chang@kyoto-u.ac.jp)  
+**Email:** [kuochingchang@agent.soc.i.kyoto-u.ac.jp](mailto:kuochingchang@agent.soc.i.kyoto-u.ac.jp)  
 **GitHub:** [dnimo](https://github.com/dnimo)  
 **ORCID:** [0009-0007-6956-0814](https://orcid.org/0009-0007-6956-0814)  
 
