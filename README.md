@@ -23,27 +23,48 @@ Research Interests: *Medical AI, Clinical Summarization, Multi-Agent Systems, an
 
 - **Ph.D. in Informatics** — *Kyoto University*  
   *Oct 2025 – Present*  
-  [Takayuki Ito Laboratory](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)
+  **Laboratory:** [Takayuki Ito Laboratory](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)  
+  *Graduate School of Informatics*  
+  - Research on multi-agent reinforcement learning, automated negotiation, and computational mechanism design for collective intelligence systems.
 
 - **M.Sc. in Informatics** — *Kyoto University*  
   *Apr 2023 – Apr 2025*  
-  [Medical Informatics Laboratory](https://medinfo.kuhp.kyoto-u.ac.jp/members/)
+  **Laboratory:** [Medical Informatics Planning Division](https://medinfo.kuhp.kyoto-u.ac.jp/members/)  
+  *Graduate School of Medicine, Kyoto University Hospital*  
+  - Focused on clinical summarization and trustworthy generative AI for long electronic medical records.
 
 ---
 
 ## 🔬 Research Interests
 
 My research lies at the intersection of **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Medical Informatics**.  
-I aim to build *trustworthy, interpretable, and efficient AI systems* that can support real-world healthcare operations.
+I aim to build *trustworthy, interpretable, and resilient AI systems* that support real-world healthcare decision-making.
 
-- 🧩 **Clinical Summarization and Long-Context Modeling** —  
-  Developed the **NBCE method** (*Non-Buffer Context Extension*) to optimize automatic summarization of long clinical records, addressing the limited context window of 7B-scale models through dynamic retrieval and TF-IDF-based alignment.
+- 🧩 **Clinical Summarization and Long-Context Modeling (Kyoto University Hospital)** —  
+  Applied the **NBCE method** (originally proposed by Su Jianlin) to optimize automatic summarization of long clinical records.  
+  This work was conducted at the [Medical Informatics Planning Division](https://medinfo.kuhp.kyoto-u.ac.jp/members/),  
+  addressing the limited context window of 7B-scale models through **dynamic retrieval** and **TF-IDF-based alignment** strategies.
 
-- 🤖 **Multi-Agent Reinforcement Learning for Intelligent Healthcare Systems** —  
-  Proposed a **four-layer agent architecture** with hybrid decision mechanisms to dynamically coordinate nursing schedules and optimize hospital resource allocation.
+- 🤖 **Ethically-Constrained Multi-Agent Reinforcement Learning for Intelligent Healthcare Systems (Takayuki Ito Laboratory)** —  
+  My current PhD research at the [Takayuki Ito Laboratory](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)  
+  explores the **Kallipolis Medical Republic model**, a dynamic multi-agent framework inspired by control theory,  
+  social contract philosophy, and large language model cognition.  
+  This work conceptualizes hospital systems as **complex adaptive organizations**,  
+  where autonomous agents (doctors, nurses, administrators, patients) coordinate through ethical communication mechanisms  
+  and reinforcement learning under **semantic constraints** known as the *Holy Code*.  
+  The framework integrates LLM-based action generation with a critic that jointly reasons over both  
+  operational outcomes and moral consistency—achieving context-aware, interpretable, and safe decision-making.
 
 - 🔍 **Future Work** —  
-  I plan to explore the integration of **LLM reasoning with reinforcement learning** to enable adaptive decision-making in multi-agent medical environments, and to extend these frameworks to **multimodal diagnostic and procedural planning tasks**.
+  I plan to extend this semantic reinforcement framework toward **multi-modal clinical reasoning**  
+  by integrating structured EHR data, imaging, and text into a unified decision space.  
+  In parallel, I aim to investigate **adaptive value systems** for multi-agent negotiation and governance,  
+  enabling AI systems to balance efficiency, fairness, and ethical stability in complex healthcare environments.  
+  Ultimately, this research envisions a new paradigm of *AI governance as an evolving moral-technical ecosystem*.
+
+<p align="center">
+  <img src="assets/research_overview.png" width="70%" alt="Research overview (placeholder)">
+</p>
 
 ---
 
@@ -103,8 +124,10 @@ Extracted complex relational patterns in financial text data for the 2021 Nation
 
 ## 📫 Contact
 
-**Email:** kuochingchang@agent.soc.i.kyoto-u.ac.jp  
+**Email:** kuoching.chang@kyoto-u.ac.jp  
 **GitHub:** [dnimo](https://github.com/dnimo)  
+**ORCID:** [0000-0003-XXXX-XXXX] *(optional)*  
+**LinkedIn:** *(optional)*  
 
 ---
 
