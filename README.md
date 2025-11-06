@@ -122,25 +122,6 @@ Represented China in the Microsoft Student Ambassador Asia program. Engaged with
 
 ---
 
-## 🧩 Projects
-
-### [HuskyMed](https://github.com/dnimo/HuskyMed)
-
-`Python` | *Medical Informatics / LLM-based Clinical Summarization*  
-A research-oriented framework designed to process and summarize clinical narratives using generative AI models, emphasizing reliability, retrieval-based context alignment, and interpretability in medical applications.
-
-### [ZhongYi-NER](https://github.com/dnimo/ZhongYi-NER2)
-
-`PyTorch` | *Named Entity Recognition for Classical Medical Texts*  
-Developed a pointer-network-based NER model utilizing BERT encoders to identify entities in ancient Chinese medical literature.
-
-### [BERT Information Extraction](https://github.com/dnimo/Bert-information-Extraction)
-
-`Keras` | *Text Mining / Information Extraction*  
-Extracted complex relational patterns in financial text data for the 2021 National Service Outsourcing Competition.
-
----
-
 ## 🏆 Awards & Scholarships
 
 - 🧪 **Second Prize**, China Chemistry Olympiad (Preliminary)  
